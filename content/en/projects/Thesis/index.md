@@ -11,4 +11,4 @@ Title: Mixed Integer Nonlinear Optimization: Applications to Competitive Locatio
 Supervisors: R. Blanquero, E. Carrizosa and D. Romero Morales.
 
 
-Download my [Thesis](https://github.com/amaya-nogalesgomez/amaya-nogalesgomez.github.io/blob/master/Athesis.pdf).
+Download my [Thesis](home/Athesis.pdf).
