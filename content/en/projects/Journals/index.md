@@ -29,6 +29,9 @@ draft: false
 * Clustering Categories in Support Vector Machines, Carrizosa, E., Nogales-Gómez, A., Romero Morales, D. _Omega_, 66: 28--37, 2017. 
 [https://doi.org/10.1016/j.omega.2016.01.008](https://doi.org/10.1016/j.omega.2016.01.008)
 
+* Incremental space-filling design based on coverings and spacings: improving upon low discrepancy sequences, Nogales-Gómez, A., Pronzato, L., Rendas, M.J. _Submitted_, 2020. 
+[https://hal.archives-ouvertes.fr/hal-02987983v1](https://hal.archives-ouvertes.fr/hal-02987983v1)
+
 
 
 
