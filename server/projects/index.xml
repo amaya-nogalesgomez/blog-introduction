@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Amaya Nogales Gómez</title>
+    <link>/projects/</link>
+    <description>Recent content in Research on Amaya Nogales Gómez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Mar 2020 16:42:07 +0100</lastBuildDate>
+    
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thesis</title>
+      <link>/projects/thesis/</link>
+      <pubDate>Wed, 18 Mar 2020 16:48:18 +0100</pubDate>
+      
+      <guid>/projects/thesis/</guid>
+      <description>PhD in Mathematics, University of Seville, February 2015.
+Title: Mixed Integer Nonlinear Optimization: Applications to Competitive Location and Supervised Classification.
+Supervisors: R. Blanquero, E. Carrizosa and D. Romero Morales.
+Download my Thesis.</description>
+    </item>
+    
+    <item>
+      <title>Journals</title>
+      <link>/projects/journals/</link>
+      <pubDate>Wed, 18 Mar 2020 16:48:18 +0100</pubDate>
+      
+      <guid>/projects/journals/</guid>
+      <description>Single-facility Huff location problems on networks, Blanquero, R., Carrizosa, E., Nogales-Gómez, A., Plastria, F. Annals of Operations Research, 222(1): 175&amp;ndash;195, 2014. http://dx.doi.org/10.1007/s10479-013-1445-x
+  Heuristic approaches for Support Vector Machines with the ramp loss, Carrizosa, E., Nogales-Gómez, A., Romero Morales, D. Optimization Letters, 8(3): 1125&amp;ndash;1135, 2014. http://dx.doi.org/10.1007/s11590-013-0630-9
+  Strongly Agree or Strongly Disagree?: Rating Features in Support Vector Machines, Carrizosa, E., Nogales-Gómez, A., Romero Morales, D. Information Sciences, 329: 256&amp;ndash;273, 2016.</description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>/projects/conferences/</link>
+      <pubDate>Wed, 18 Mar 2020 16:48:18 +0100</pubDate>
+      
+      <guid>/projects/conferences/</guid>
+      <description>  Anticipatory radio resource management for mobile video streaming with linear programming, Tsilimantos, D., Nogales-Gómez, A., Valentin, S. 2016 IEEE International Conference on Communications (ICC), 2016. https://doi.org/10.1109/ICC.2016.7511099
+  Traffic profiling for mobile video streaming, Tsilimantos, D., Karagkioules, T., Nogales-Gómez, A., Valentin, S. 2017 IEEE International Conference on Communications (ICC), 2017. https://doi.org/10.1109/ICC.2017.7996603
+  </description>
+    </item>
+    
+    <item>
+      <title>Patents</title>
+      <link>/projects/patents/</link>
+      <pubDate>Wed, 18 Mar 2020 16:48:18 +0100</pubDate>
+      
+      <guid>/projects/patents/</guid>
+      <description>A method Improving QoE of Video Streaming, Shi, X., Chao, Z., Lou, Q., Zhang, J., Valentin, S., Tsilimantos, D., Nogales-Gómez, A., Yang, J. 85016690, 2016.
+  Unequal error protection for video traffic via adaptive modulation and coding, Chao, Z., Feki, A., Nogales-Gómez, A., Shi, X., Tang, H., Tsilimantos, D., Valentin, S. 85348718, 2017.
+  System and method for traffic profiling of mobile video streaming, Tsilimantos, D., Valentin, S.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,5 +3,6 @@ title: "Contact"
 ---
 
 
-Laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis (I3S) - UMR7271 - UNS CNRS
-2000, route des Lucioles - Les Algorithmes - bât. Euclide B 06900 Sophia Antipolis - France
+Laboratoire I3S, bât. Templiers 1
+Polytech'Nice Sophia, 930 route des Colles
+06903 Sophia Antipolis, France 

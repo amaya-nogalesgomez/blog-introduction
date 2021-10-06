@@ -3,4 +3,4 @@ title: "Amaya Nogales Gómez"
 headless: true
 ---
 
-Postdoctoral Researcher at  [I3S](http://www.i3s.unice.fr/)
+Associate Professor at [3IA](https://3ia.univ-cotedazur.eu/), Université Côte d'Azur
